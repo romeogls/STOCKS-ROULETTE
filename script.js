@@ -1,1 +1,2 @@
-let name = "Roulette"
+let page = "Roulette";
+let spin = "clocklike";
